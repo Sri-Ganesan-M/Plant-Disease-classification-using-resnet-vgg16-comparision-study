@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 # model = load_model('best_modelv2')
 model = load_model('best_modelv4')
 def get_precaution(name):    
-    genai.configure(api_key='AIzaSyCEYbDu9Bfoq4cKkm_IjRgyWa97h4nnnUU')
+    genai.configure(api_key='')
     model = genai.GenerativeModel('gemini-pro')
     response = model.generate_content("give me in 10 points What is the precaution for the plant disease " + name)
     data = response.text
