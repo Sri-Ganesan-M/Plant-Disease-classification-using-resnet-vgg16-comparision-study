@@ -1,9 +1,5 @@
 # 🌿 Plant Disease Detection Using EfficientNet-B3
 
-This repository contains the implementation and supporting resources for the research paper:  
-**"Plant Disease Detection Using EfficientNet-B3"**  
-Authored by Dr. M. Poonkodi, Chandrakanth V, Sri Ganesan M, and Pavan Krishna.O  
-Affiliated with VIT Chennai, School of Computer Science & Engineering.
 
 📄 **[Read the Paper](https://drive.google.com/file/d/11-1mlRm4SEzKsaqvpcC4QaFlTMcRbjRa/view?usp=share_link)**
 
